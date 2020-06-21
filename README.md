@@ -4,6 +4,8 @@ Developed a Group chat application using Flutter and Firebase, where users can r
 
 ## Snapshots
 
+![Screenshots](/snapshots/5.png)
+
 ## Configuration Steps
 1. Cloning the repository:
 
