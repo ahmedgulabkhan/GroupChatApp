@@ -4,7 +4,11 @@ Developed a Group chat application using Flutter and Firebase, where users can r
 
 ## Snapshots
 
+Dark Mode: Off
 ![Screenshots](/snapshots/5.png)
+
+Dark Mode: On
+![Screenshots](/snapshots/10.png)
 
 ## Configuration Steps
 1. Cloning the repository:
