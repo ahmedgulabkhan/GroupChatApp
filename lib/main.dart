@@ -33,6 +33,8 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       title: 'Group Chats',
       debugShowCheckedModeBanner: false,
+      theme: ThemeData.light(),
+      darkTheme: ThemeData.dark(),
       //home: _isLoggedIn != null ? _isLoggedIn ? HomePage() : AuthenticatePage() : Center(child: CircularProgressIndicator()),
       home: _isLoggedIn ? HomePage() : AuthenticatePage(),
       //home: HomePage(),
