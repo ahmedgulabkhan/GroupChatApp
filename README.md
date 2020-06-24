@@ -9,6 +9,7 @@ Dark Mode: Off
 
 Dark Mode: On
 ![Screenshots](/snapshots/10.png)
+Dark Mode is enabled or disabled based on whether the system's theme is dark or light.
 
 ## Configuration Steps
 1. Cloning the repository:
